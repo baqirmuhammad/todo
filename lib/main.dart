@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: const TodosScreenView(),
       theme: ThemeData.dark(),
-      title: 'Flutter Stacked Todos',
+      title: 'My Todos',
     );
   }
 }
